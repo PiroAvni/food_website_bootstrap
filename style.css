@@ -11,3 +11,11 @@ img {
   height: "500px";
   border-radius: 50%;
 }
+.logo {
+  color: orange;
+}
+
+span {
+  font-size: 2rem;
+  color: #2222;
+}
